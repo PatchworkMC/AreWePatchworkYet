@@ -7,7 +7,6 @@ import io.github.stairman06.arewepatchworkyet.mappings.MappingUtils;
 import io.github.stairman06.arewepatchworkyet.ui.GitHubUtils;
 import io.github.stairman06.arewepatchworkyet.ui.ResultListItem;
 import io.github.stairman06.arewepatchworkyet.ui.ResultListItemCellRenderer;
-import jdk.nashorn.internal.scripts.JO;
 import net.fabricmc.mapping.tree.ClassDef;
 import net.fabricmc.mapping.tree.TinyTree;
 import org.apache.commons.io.FileUtils;
